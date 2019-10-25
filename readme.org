@@ -1,0 +1,2 @@
+* [[file:t81_558_class_03_2_keras.ipynb]]
+example for code to code prediction for iris multiclass with softmax
